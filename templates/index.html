@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Klasifikasi</title>
+  
+    <!-- Slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}" />
+  
+    <!-- Fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" />
+    <!-- Responsive style -->
+    <link href="{{ url_for('static', filename='css/responsive.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="hero_area">
+    <!-- Header section starts -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
+          <a class="navbar-brand" href="index.html">
+            <!-- Logo or Brand Name Here -->
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <!-- <a class="nav-link" href="#mulai">Get Started</a> -->
+              </li>
+              <li class="nav-item">
+                <!-- <a class="nav-link" href="#prediction">Prediction</a> -->
+              </li>
+              <li class="nav-item">
+                <!-- <a class="nav-link" href="#contact">Contact</a> -->
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- End header section -->
+    
+    <!-- Slider section -->
+    <section class="slider_section position-relative">
+      <div class="container">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row align-items-center">
+                <div class="col-md-7">
+                  <div class="detail-box">
+                    <h2 class="text-primary">
+                      Selamat Datang
+                    </h2>
+                    <h1>
+                      Website Prediksi Kelayakan
+                    </h1>
+                    <p class="mb-4">Website ini dilengkapi machine learning yang dapat membantu merekomendasikan kelayakan penerima Kartu Indonesia Pintar</p>
+                    <a href="#mulai" class="btn btn-primary btn-lg">Get Started</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End slider section -->
+  </div>
+
+  <!-- Prediction section -->
+  <section id="mulai" class="contact_section layout_padding">
+    <div class="container">
+      <div class="heading_container text-center mb-5">
+        <h2 class="text-uppercase">Prediksi Kelayakan</h2>
+      </div>
+      <div class="row">
+        <div class="col-md-6 mb-4">
+          <div class="contact-form">
+            <h4>Upload File Excel</h4>
+            <form action="/predict" method="post" enctype="multipart/form-data">
+              <div class="form-group">
+                <label for="file">Upload Excel File:</label>
+                <input type="file" name="file" class="form-control" />
+              </div>
+              <div class="d-flex justify-content-center">
+                <button type="submit" class="btn btn-primary">Upload</button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="contact-form">
+            <h4>Input Manual</h4>
+            <form action="/predict" method="post">
+              <div class="form-group">
+                <label for="nama">Nama:</label>
+                <input type="text" name="nama" class="form-control" placeholder="Masukkan Nama Anda" required />
+              </div>
+              <div class="form-group">
+                <label for="usia">Usia:</label>
+                <input type="number" name="usia" class="form-control" placeholder="Masukkan Usia Anda" required />
+              </div>
+              <div class="form-group">
+                <label for="penghasilan_orang_tua">Penghasilan Orang Tua:</label>
+                <input type="number" name="penghasilan_orang_tua" class="form-control" placeholder="Penghasilan Orang Tua" required />
+              </div>
+              <div class="form-group">
+                <label for="pekerjaan_orang_tua">Pekerjaan Orang Tua:</label>
+                <input type="text" name="pekerjaan_orang_tua" class="form-control" placeholder="Pekerjaan Orang Tua" required />
+              </div>
+              <div class="form-group">
+                <label for="jumlah_keluarga">Jumlah Keluarga:</label>
+                <input type="number" name="jumlah_keluarga" class="form-control" placeholder="Jumlah Keluarga" required />
+              </div>
+              <div class="form-group">
+                <label for="jumlah_tanggungan_anak">Jumlah Tanggungan Anak:</label>
+                <input type="number" name="jumlah_tanggungan_anak" class="form-control" placeholder="Jumlah Tanggungan Anak" required />
+              </div>
+              <div class="form-group">
+                <label for="status_rumah">Status Rumah:</label>
+                <select name="status_rumah" class="form-control" required>
+                  <option value="" disabled selected>Pilih Status Rumah</option>
+                  <option value="Milik Sendiri">Milik Sendiri</option>
+                  <option value="Sewa">Sewa</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="jenis_lantai">Jenis Lantai:</label>
+                <select name="jenis_lantai" class="form-control" required>
+                  <option value="" disabled selected>Pilih Jenis Lantai</option>
+                  <option value="Keramik">Keramik</option>
+                  <option value="Tanah">Tanah</option>
+                  <option value="Semen">Semen</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="jenis_dinding">Jenis Dinding:</label>
+                <select name="jenis_dinding" class="form-control" required>
+                  <option value="" disabled selected>Pilih Jenis Dinding</option>
+                  <option value="Tembok">Tembok</option>
+                  <option value="Kayu">Kayu</option>
+                </select>
+              </div>
+              <div class="d-flex justify-content-center">
+                <button type="submit" class="btn btn-primary">Prediksi</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tampilkan hasil prediksi jika ada -->
+      {% if result %}
+        <div id="result" class="result text-center mt-5">
+          <h3>Status Kelayakan:</h3>
+          <p class="alert alert-info">{{ result }}</p>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+  <!-- End prediction section -->
+
+  <!-- Include necessary scripts -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+</body>
+
+</html>

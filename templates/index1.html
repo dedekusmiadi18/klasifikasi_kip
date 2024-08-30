@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Prediksi Kelayakan</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Prediksi Kelayakan</h1>
+        <form action="/predict" method="post" enctype="multipart/form-data">
+            <label for="file">Upload Excel File:</label>
+            <input type="file" name="file" />
+            <button type="submit">Upload</button>
+        </form>
+        <form action="/predict" method="post">
+            <label for="nama">Nama Lengkap:</label>
+            <input type="text" name="nama" placeholder="Nama" required />
+
+            <label for="usia">Usia:</label>
+            <input type="number" name="usia" placeholder="Usia" required />
+
+            <label for="penghasilan">Penghasilan:</label>
+            <select name="penghasilan" required>
+                <option value="" disabled selected>Pilih Penghasilan</option>
+                <option value="< 1.000.000"> < 1.000.000 </option>
+                <option value="< 2.000.000"> < 2.000.000 </option>
+                <option value="< 3.000.000"> < 3.000.000 </option>
+                <option value="< 4.000.000"> < 4.000.000 </option>
+                <option value="> 4.000.000"> > 4.000.000 </option>
+            </select>
+
+            <label for="pekerjaan">Pekerjaan:</label>
+            <input type="text" name="pekerjaan" placeholder="Pekerjaan" required />
+
+            <label for="jumlah_keluarga">Jumlah Keluarga Di KK:</label>
+            <input type="number" name="jumlah_keluarga" placeholder="Jumlah Keluarga" required />
+
+            <label for="jumlah_tanggungan_anak">Jumlah Tanggungan Anak:</label>
+            <input type="number" name="jumlah_tanggungan_anak" placeholder="Jumlah Tanggungan Anak" required />
+            <label for="status_rumah">Status Rumah:</label>
+            <select name="status_rumah" required>
+                <option value="" disabled selected>Pilih Status Rumah</option>
+                <option value="Milik Sendiri">Milik Sendiri</option>
+                <option value="Sewa">Sewa</option>
+            </select>
+            <label for="jenis_lantai">Jenis Lantai:</label>
+            <select name="jenis_lantai" required>
+                <option value="" disabled selected>Pilih Jenis Lantai</option>
+                <option value="Keramik">Keramik</option>
+                <option value="Tanah">Tanah</option>
+                <option value="Semen">Semen</option>
+            </select>
+            <label for="jenis_dinding">Jenis Dinding:</label>
+            <select name="jenis_dinding" required>
+                <option value="" disabled selected>Pilih Jenis Dinding</option>
+                <option value="Tembok">Tembok</option>
+                <option value="Kayu">Kayu</option>
+            </select>
+            <button type="submit">Prediksi</button>
+        </form>
+        {% if result %}
+            <div class="result">
+                <h2>Status Kelayakan:</h2>
+                <p>{{ result }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

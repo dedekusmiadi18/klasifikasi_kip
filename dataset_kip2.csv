@@ -1,0 +1,511 @@
+NO,Nama,Usia,Tanggal Lahir,Alamat,Pekerjaan Orang Tua,Penghasilan Orang Tua,Jumlah Keluarga,Jumlah Tanggungan Anak,Status Rumah,Jenis Lantai,Jenis Dinding,Status
+1,Tari Nurul,17,11/22/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,500000,3,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+2,Xenia Arum,17,10/21/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,3000000,5,4,Sewa,Keramik,Tembok,Tidak Layak
+3,Oki Saputra,17,7/15/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,500000,6,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+4,Cinta Sari,15,4/19/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,500000,7,4,Milik Sendiri,Keramik,Kayu,Layak
+5,Vina Ayu,18,9/7/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,5000000,5,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+6,Nanda Pratama,17,2/10/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,500000,5,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+7,Cinta Sari,17,2/21/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,500000,7,5,Milik Sendiri,Keramik,Kayu,Tidak Layak
+8,Yosi Hermawan,16,5/12/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,7,3,Sewa,Semen,Kayu,Tidak Layak
+9,Rani Putri,17,11/3/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,1000000,7,3,Sewa,Semen,Tembok,Layak
+10,Kiki Permata,16,7/17/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+11,Puti Ayu,15,7/9/2008,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,6,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+12,Januari Prabowo,15,3/21/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,3000000,4,1,Sewa,Semen,Tembok,Layak
+13,Puti Ayu,18,8/6/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,4000000,5,2,Sewa,Semen,Tembok,Layak
+14,Xenia Arum,15,3/1/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,4000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+15,Vina Ayu,16,1/8/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,2000000,6,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+16,Fikri Ramadhan,15,7/24/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,6,3,Sewa,Semen,Tembok,Layak
+17,Nanda Pratama,18,2/20/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,500000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+18,Januari Prabowo,15,5/6/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,2000000,4,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+19,Gita Puspitasari,16,6/23/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,500000,7,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+20,Maya Sari,18,3/23/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,4,1,Sewa,Semen,Kayu,Tidak Layak
+21,Haris Setiawan,15,4/13/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,6,3,Sewa,Keramik,Kayu,Tidak Layak
+22,Haris Setiawan,16,1/26/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,3,Sewa,Keramik,Tembok,Tidak Layak
+23,Zahra Dewi,16,7/20/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,1000000,6,5,Milik Sendiri,Semen,Kayu,Tidak Layak
+24,Wira Andika,17,12/18/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,5000000,6,2,Sewa,Semen,Tembok,Layak
+25,Eka Wulandari,17,10/23/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,3000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+26,Fikri Ramadhan,15,3/21/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,1,Sewa,Semen,Tembok,Layak
+27,Eka Wulandari,17,9/25/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+28,Vina Ayu,18,8/18/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,1000000,6,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+29,Vina Ayu,17,4/18/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,5000000,5,1,Sewa,Semen,Kayu,Tidak Layak
+30,Andi Putra,15,11/19/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,500000,4,3,Sewa,Semen,Kayu,Tidak Layak
+31,Haris Setiawan,16,12/24/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,5000000,6,4,Milik Sendiri,Semen,Kayu,Layak
+32,Indah Lestari,16,2/17/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Pedagang,5000000,4,1,Sewa,Semen,Tembok,Layak
+33,Wira Andika,17,5/16/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,2000000,7,3,Sewa,Semen,Tembok,Layak
+34,Yosi Hermawan,16,5/13/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,5,3,Sewa,Semen,Kayu,Tidak Layak
+35,Rani Putri,18,12/1/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,2000000,5,2,Sewa,Semen,Tembok,Layak
+36,Yosi Hermawan,16,10/18/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,5000000,5,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+37,Yosi Hermawan,18,5/1/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,5,3,Sewa,Keramik,Kayu,Tidak Layak
+38,Eka Wulandari,18,6/19/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,500000,4,2,Sewa,Keramik,Kayu,Tidak Layak
+39,Rani Putri,15,5/1/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,3000000,5,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+40,Januari Prabowo,15,5/18/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,5,2,Sewa,Keramik,Tembok,Tidak Layak
+41,Haris Setiawan,17,9/18/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,4000000,6,3,Sewa,Keramik,Kayu,Tidak Layak
+42,Fikri Ramadhan,15,5/15/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,2000000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+43,Dian Rahmawati,16,4/11/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,4,3,Sewa,Keramik,Tembok,Tidak Layak
+44,Oki Saputra,17,9/10/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+45,Tari Nurul,15,1/22/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,7,2,Sewa,Semen,Kayu,Tidak Layak
+46,Dian Rahmawati,16,9/3/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,500000,7,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+47,Haris Setiawan,18,11/11/2007,"Kampung Baros, Sukabumi, Jawa Barat",PNS,4000000,3,1,Sewa,Semen,Kayu,Tidak Layak
+48,Dian Rahmawati,17,4/11/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+49,Andi Putra,18,10/19/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+50,Indah Lestari,16,3/19/2008,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,3,1,Sewa,Semen,Kayu,Tidak Layak
+51,Rani Putri,17,2/10/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,500000,6,1,Sewa,Keramik,Tembok,Tidak Layak
+52,Nanda Pratama,17,12/21/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,500000,7,2,Sewa,Semen,Kayu,Tidak Layak
+53,Eka Wulandari,18,6/22/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,4000000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+54,Fikri Ramadhan,16,4/10/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,7,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+55,Yosi Hermawan,17,3/7/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,3000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+56,Gita Puspitasari,17,6/13/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,4,3,Sewa,Semen,Tembok,Layak
+57,Vina Ayu,17,4/24/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Pedagang,1000000,7,5,Milik Sendiri,Semen,Kayu,Tidak Layak
+58,Fikri Ramadhan,15,3/27/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,2000000,3,2,Sewa,Keramik,Kayu,Tidak Layak
+59,Eka Wulandari,17,6/21/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,5000000,6,2,Sewa,Keramik,Tembok,Tidak Layak
+60,Rani Putri,17,9/27/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,5,4,Milik Sendiri,Semen,Kayu,Tidak Layak
+61,Zahra Dewi,18,8/19/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,3,2,Sewa,Semen,Tembok,Layak
+62,Indah Lestari,15,2/19/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,1000000,7,4,Sewa,Semen,Tembok,Layak
+63,Kiki Permata,17,9/27/2008,"Kampung Baros, Sukabumi, Jawa Barat",Pedagang,5000000,5,4,Sewa,Keramik,Kayu,Tidak Layak
+64,Kiki Permata,16,9/26/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,1000000,4,3,Sewa,Semen,Kayu,Tidak Layak
+65,Bintang Pratama,18,5/26/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,500000,5,4,Milik Sendiri,Semen,Kayu,Tidak Layak
+66,Oki Saputra,16,3/7/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,4000000,7,1,Sewa,Keramik,Kayu,Tidak Layak
+67,Zahra Dewi,18,5/2/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,1000000,7,2,Milik Sendiri,Semen,Tembok,Layak
+68,Fikri Ramadhan,15,7/11/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,3000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+69,Zahra Dewi,17,6/13/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,500000,3,2,Sewa,Semen,Kayu,Tidak Layak
+70,Yosi Hermawan,17,2/21/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,5000000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+71,Kiki Permata,17,7/11/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,2000000,5,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+72,Andi Putra,16,5/24/2006,"Kampung Baros, Sukabumi, Jawa Barat",PNS,5000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+73,Dian Rahmawati,15,9/28/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,4000000,5,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+74,Sari Amelia,15,8/16/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,3000000,5,1,Sewa,Keramik,Kayu,Tidak Layak
+75,Puti Ayu,18,11/2/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,6,1,Sewa,Semen,Tembok,Layak
+76,Tari Nurul,18,9/1/2006,"Kampung Baros, Sukabumi, Jawa Barat",Petani,3000000,7,2,Sewa,Keramik,Tembok,Tidak Layak
+77,Yosi Hermawan,18,9/16/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,4,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+78,Sari Amelia,18,7/19/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,6,1,Sewa,Semen,Tembok,Layak
+79,Yosi Hermawan,18,3/9/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Wiraswasta,4000000,5,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+80,Lia Nabila,16,4/3/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,5000000,7,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+81,Puti Ayu,16,2/14/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,6,3,Sewa,Semen,Kayu,Tidak Layak
+82,Maya Sari,17,9/17/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,500000,7,4,Sewa,Semen,Tembok,Layak
+83,Dian Rahmawati,18,1/5/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,1000000,3,1,Sewa,Keramik,Kayu,Tidak Layak
+84,Dian Rahmawati,16,1/2/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,2000000,7,4,Sewa,Semen,Tembok,Layak
+85,Bintang Pratama,17,2/20/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,500000,7,3,Sewa,Keramik,Kayu,Tidak Layak
+86,Lia Nabila,17,10/23/2009,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,500000,4,3,Sewa,Semen,Tembok,Layak
+87,Rani Putri,15,10/17/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,6,3,Sewa,Semen,Tembok,Layak
+88,Kiki Permata,15,9/12/2006,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,7,4,Sewa,Semen,Kayu,Tidak Layak
+89,Gita Puspitasari,15,3/23/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+90,Bintang Pratama,15,8/26/2008,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,4000000,5,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+91,Kiki Permata,16,1/6/2008,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+92,Cinta Sari,17,3/21/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,6,1,Sewa,Keramik,Tembok,Tidak Layak
+93,Oki Saputra,18,3/23/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,6,4,Sewa,Semen,Tembok,Layak
+94,Yosi Hermawan,15,4/20/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,5000000,7,4,Sewa,Keramik,Tembok,Tidak Layak
+95,Fikri Ramadhan,15,3/13/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,5000000,4,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+96,Zahra Dewi,16,10/1/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,4000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+97,Zahra Dewi,15,7/13/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,2000000,3,2,Sewa,Keramik,Tembok,Tidak Layak
+98,Andi Putra,18,4/9/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,4000000,3,2,Sewa,Keramik,Tembok,Tidak Layak
+99,Indah Lestari,18,12/4/2006,"Kampung Baros, Sukabumi, Jawa Barat",PNS,500000,6,2,Sewa,Keramik,Tembok,Tidak Layak
+100,Cinta Sari,18,9/26/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+101,Yosi Hermawan,17,6/19/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,5,4,Sewa,Keramik,Kayu,Tidak Layak
+102,Indah Lestari,17,8/6/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,4,3,Sewa,Semen,Kayu,Tidak Layak
+103,Zahra Dewi,15,11/10/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,6,3,Sewa,Semen,Tembok,Layak
+104,Januari Prabowo,17,4/13/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,5000000,5,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+105,Cinta Sari,16,9/17/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,2000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+106,Bintang Pratama,17,8/2/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,6,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+107,Eka Wulandari,18,12/27/2008,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+108,Wira Andika,15,7/28/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,3,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+109,Xenia Arum,17,12/17/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,7,4,Sewa,Keramik,Kayu,Tidak Layak
+110,Gita Puspitasari,17,8/4/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,1000000,5,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+111,Yosi Hermawan,18,11/26/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,7,1,Sewa,Semen,Tembok,Layak
+112,Rani Putri,15,6/3/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,500000,7,4,Sewa,Keramik,Tembok,Tidak Layak
+113,Maya Sari,15,3/22/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,1000000,5,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+114,Wira Andika,15,3/6/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,1,Sewa,Semen,Tembok,Layak
+115,Sari Amelia,16,11/1/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,4000000,4,1,Sewa,Semen,Tembok,Layak
+116,Vina Ayu,17,8/3/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,6,5,Sewa,Semen,Kayu,Tidak Layak
+117,Xenia Arum,18,12/16/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+118,Rani Putri,17,4/18/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,1000000,6,4,Sewa,Semen,Tembok,Layak
+119,Yosi Hermawan,18,3/12/2009,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,1000000,6,3,Sewa,Keramik,Kayu,Tidak Layak
+120,Puti Ayu,18,1/16/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,500000,7,4,Sewa,Semen,Tembok,Layak
+121,Bintang Pratama,16,1/4/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,5,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+122,Eka Wulandari,16,5/10/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,4000000,7,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+123,Sari Amelia,15,10/15/2008,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+124,Andi Putra,18,8/8/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,5000000,7,5,Milik Sendiri,Keramik,Tembok,Tidak Layak
+125,Oki Saputra,17,11/28/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,1000000,5,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+126,Januari Prabowo,15,3/28/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,5000000,4,2,Sewa,Semen,Tembok,Layak
+127,Vina Ayu,18,12/18/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,3000000,4,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+128,Eka Wulandari,15,1/18/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+129,Rani Putri,15,12/3/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,4000000,7,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+130,Gita Puspitasari,15,9/4/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,5000000,3,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+131,Eka Wulandari,17,11/21/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,3,2,Sewa,Keramik,Kayu,Tidak Layak
+132,Andi Putra,15,2/15/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,5000000,4,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+133,Fikri Ramadhan,16,1/17/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,5000000,7,5,Milik Sendiri,Semen,Kayu,Layak
+134,Puti Ayu,16,11/11/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,4000000,4,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+135,Yosi Hermawan,16,1/11/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,3,1,Sewa,Semen,Kayu,Tidak Layak
+136,Januari Prabowo,18,8/11/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,5000000,6,3,Sewa,Keramik,Kayu,Tidak Layak
+137,Haris Setiawan,17,6/17/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,3000000,5,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+138,Nanda Pratama,16,9/25/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,2,Sewa,Keramik,Tembok,Tidak Layak
+139,Zahra Dewi,18,7/13/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,3000000,7,1,Sewa,Semen,Kayu,Tidak Layak
+140,Tari Nurul,15,5/12/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,2000000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+141,Januari Prabowo,15,6/9/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,500000,4,1,Sewa,Keramik,Kayu,Tidak Layak
+142,Tari Nurul,17,4/23/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Pedagang,2000000,7,3,Sewa,Semen,Tembok,Layak
+143,Indah Lestari,17,5/13/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+144,Indah Lestari,15,11/14/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,3000000,4,1,Sewa,Semen,Tembok,Layak
+145,Yosi Hermawan,16,10/16/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,5,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+146,Xenia Arum,16,1/7/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,500000,6,3,Sewa,Semen,Tembok,Layak
+147,Umar Fauzi,15,5/16/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,2000000,5,4,Sewa,Keramik,Tembok,Tidak Layak
+148,Vina Ayu,17,5/12/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,3000000,4,3,Sewa,Semen,Kayu,Tidak Layak
+149,Umar Fauzi,15,9/26/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+150,Sari Amelia,15,4/9/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,500000,5,4,Milik Sendiri,Keramik,Kayu,Layak
+151,Dian Rahmawati,18,2/4/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,6,1,Sewa,Keramik,Tembok,Tidak Layak
+152,Vina Ayu,18,4/8/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,500000,4,3,Sewa,Semen,Kayu,Tidak Layak
+153,Maya Sari,16,9/9/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,3000000,6,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+154,Fikri Ramadhan,17,9/4/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,6,Sewa,Semen,Kayu,Tidak Layak
+155,Nanda Pratama,15,12/27/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+156,Kiki Permata,15,7/9/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,4000000,7,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+157,Oki Saputra,18,8/8/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,5,1,Sewa,Keramik,Kayu,Tidak Layak
+158,Eka Wulandari,15,1/26/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+159,Yosi Hermawan,15,10/16/2006,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,5,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+160,Xenia Arum,16,5/5/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,2000000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+161,Zahra Dewi,16,11/4/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,5000000,4,1,Sewa,Keramik,Kayu,Tidak Layak
+162,Puti Ayu,17,11/14/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+163,Dian Rahmawati,16,5/26/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,1000000,3,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+164,Nanda Pratama,16,10/14/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,7,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+165,Yosi Hermawan,16,10/5/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,500000,4,2,Sewa,Semen,Tembok,Layak
+166,Dian Rahmawati,16,6/18/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,6,2,Sewa,Keramik,Tembok,Tidak Layak
+167,Januari Prabowo,15,6/18/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,6,2,Sewa,Semen,Tembok,Layak
+168,Vina Ayu,16,10/22/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,6,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+169,Cinta Sari,15,10/13/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,5000000,6,5,Milik Sendiri,Semen,Tembok,Tidak Layak
+170,Rani Putri,15,4/20/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,4000000,7,2,Sewa,Semen,Tembok,Layak
+171,Sari Amelia,17,1/11/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,1,Sewa,Keramik,Tembok,Tidak Layak
+172,Haris Setiawan,17,5/1/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,4000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+173,Indah Lestari,15,11/19/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",PNS,500000,5,3,Sewa,Semen,Tembok,Layak
+174,Xenia Arum,18,1/6/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,5,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+175,Xenia Arum,18,2/18/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,4000000,7,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+176,Yosi Hermawan,18,5/22/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+177,Wira Andika,18,3/16/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Sewa,Semen,Tembok,Layak
+178,Fikri Ramadhan,15,4/8/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,2000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+179,Sari Amelia,16,2/20/2007,"Kampung Baros, Sukabumi, Jawa Barat",PNS,500000,3,1,Sewa,Keramik,Kayu,Tidak Layak
+180,Gita Puspitasari,16,2/6/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,3,2,Sewa,Keramik,Kayu,Tidak Layak
+181,Sari Amelia,18,11/26/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,4000000,7,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+182,Maya Sari,15,12/23/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,500000,3,1,Sewa,Semen,Kayu,Tidak Layak
+183,Wira Andika,18,8/9/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,3,2,Sewa,Semen,Tembok,Layak
+184,Wira Andika,18,8/22/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,2000000,3,1,Sewa,Keramik,Kayu,Tidak Layak
+185,Cinta Sari,18,3/5/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,6,1,Sewa,Keramik,Tembok,Tidak Layak
+186,Oki Saputra,17,9/7/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,4000000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+187,Fikri Ramadhan,18,12/26/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,500000,6,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+188,Lia Nabila,17,5/24/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,500000,4,1,Sewa,Semen,Tembok,Layak
+189,Umar Fauzi,17,12/5/2006,"Kampung Baros, Sukabumi, Jawa Barat",Pedagang,3000000,4,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+190,Haris Setiawan,16,5/6/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,4000000,3,2,Sewa,Keramik,Kayu,Tidak Layak
+191,Indah Lestari,18,6/23/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,500000,3,2,Sewa,Semen,Tembok,Layak
+192,Yosi Hermawan,17,11/12/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,3000000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+193,Eka Wulandari,15,12/12/2006,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,5,2,Sewa,Keramik,Kayu,Tidak Layak
+194,Dian Rahmawati,18,2/19/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,2000000,6,1,Sewa,Keramik,Tembok,Tidak Layak
+195,Kiki Permata,18,4/18/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,5,2,Sewa,Semen,Kayu,Tidak Layak
+196,Puti Ayu,17,10/20/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,4000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+197,Fikri Ramadhan,17,4/26/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,5,4,Sewa,Semen,Tembok,Layak
+198,Tari Nurul,18,9/11/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,4000000,5,3,Sewa,Keramik,Kayu,Tidak Layak
+199,Tari Nurul,15,10/14/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,3,2,Sewa,Keramik,Kayu,Tidak Layak
+200,Xenia Arum,15,6/22/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,5000000,5,3,Sewa,Semen,Kayu,Tidak Layak
+201,Wira Andika,15,10/23/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,1000000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+202,Yosi Hermawan,15,1/5/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,4000000,4,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+203,Sari Amelia,18,6/8/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,500000,7,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+204,Fikri Ramadhan,16,1/7/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,4,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+205,Sari Amelia,16,4/21/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,3000000,4,1,Sewa,Keramik,Kayu,Tidak Layak
+206,Maya Sari,15,4/22/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,500000,5,1,Sewa,Keramik,Tembok,Tidak Layak
+207,Tari Nurul,16,11/2/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,500000,4,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+208,Puti Ayu,17,4/10/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,5000000,4,2,Sewa,Semen,Kayu,Tidak Layak
+209,Vina Ayu,17,4/25/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,4000000,5,2,Sewa,Keramik,Kayu,Tidak Layak
+210,Dian Rahmawati,17,3/7/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,4,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+211,Lia Nabila,17,2/4/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,6,5,Sewa,Semen,Kayu,Tidak Layak
+212,Xenia Arum,16,11/9/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Wiraswasta,4000000,3,2,Sewa,Keramik,Tembok,Tidak Layak
+213,Maya Sari,15,6/9/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,1000000,3,2,Sewa,Semen,Tembok,Layak
+214,Januari Prabowo,18,4/18/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,2000000,6,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+215,Januari Prabowo,18,10/21/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,1000000,6,4,Sewa,Semen,Kayu,Tidak Layak
+216,Maya Sari,18,8/7/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,6,2,Sewa,Keramik,Tembok,Tidak Layak
+217,Fikri Ramadhan,15,5/27/2008,"Kampung Baros, Sukabumi, Jawa Barat",Petani,3000000,6,5,Sewa,Semen,Kayu,Tidak Layak
+218,Umar Fauzi,15,3/18/2007,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,7,5,Sewa,Semen,Kayu,Tidak Layak
+219,Nanda Pratama,16,3/17/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,3000000,7,6,Milik Sendiri,Keramik,Kayu,Tidak Layak
+220,Xenia Arum,18,10/11/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,2000000,4,2,Sewa,Keramik,Kayu,Tidak Layak
+221,Eka Wulandari,17,2/12/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,4000000,6,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+222,Sari Amelia,15,11/3/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,3000000,4,1,Sewa,Keramik,Kayu,Tidak Layak
+223,Lia Nabila,17,12/9/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,1000000,5,1,Milik Sendiri,Semen,Kayu,Layak
+224,Dian Rahmawati,17,10/14/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,4,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+225,Fikri Ramadhan,18,5/22/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,5,Milik Sendiri,Semen,Kayu,Tidak Layak
+226,Wira Andika,16,2/5/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,4000000,3,1,Sewa,Semen,Tembok,Layak
+227,Oki Saputra,17,10/26/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,500000,5,4,Sewa,Semen,Kayu,Tidak Layak
+228,Eka Wulandari,16,11/11/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,5,4,Milik Sendiri,Keramik,Kayu,Tidak Layak
+229,Eka Wulandari,17,4/19/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,4000000,6,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+230,Kiki Permata,18,6/17/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,3000000,7,2,Sewa,Semen,Tembok,Layak
+231,Xenia Arum,15,5/3/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,4000000,7,4,Sewa,Semen,Tembok,Layak
+232,Kiki Permata,16,4/13/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Pedagang,3000000,5,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+233,Fikri Ramadhan,16,7/2/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,5,1,Sewa,Semen,Tembok,Layak
+234,Nanda Pratama,18,5/21/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,4000000,6,1,Sewa,Keramik,Tembok,Tidak Layak
+235,Xenia Arum,18,2/2/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,2000000,6,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+236,Tari Nurul,17,12/10/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,5000000,4,3,Sewa,Semen,Tembok,Layak
+237,Indah Lestari,17,10/12/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+238,Gita Puspitasari,18,6/3/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+239,Zahra Dewi,17,5/26/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,4000000,3,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+240,Puti Ayu,17,3/2/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,4,2,Sewa,Keramik,Kayu,Tidak Layak
+241,Cinta Sari,16,10/19/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,2000000,4,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+242,Haris Setiawan,16,4/1/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,2000000,6,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+243,Bintang Pratama,17,9/26/2006,"Kampung Baros, Sukabumi, Jawa Barat",Petani,3000000,4,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+244,Andi Putra,18,12/23/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,3000000,6,2,Sewa,Semen,Tembok,Layak
+245,Xenia Arum,16,12/19/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,4,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+246,Gita Puspitasari,15,5/7/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,4000000,4,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+247,Eka Wulandari,15,6/22/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",PNS,2000000,4,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+248,Lia Nabila,17,1/24/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,5,2,Sewa,Keramik,Tembok,Tidak Layak
+249,Xenia Arum,16,5/25/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,5000000,7,5,Sewa,Semen,Kayu,Tidak Layak
+250,Zahra Dewi,15,3/28/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,500000,7,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+251,Indah Lestari,17,9/18/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+252,Haris Setiawan,17,8/22/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,4000000,7,4,Milik Sendiri,Semen,Kayu,Tidak Layak
+253,Haris Setiawan,15,7/23/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,500000,6,5,Sewa,Keramik,Kayu,Tidak Layak
+254,Eka Wulandari,15,4/10/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,4000000,5,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+255,Yosi Hermawan,17,1/15/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,3000000,7,2,Sewa,Semen,Kayu,Tidak Layak
+256,Puti Ayu,17,7/17/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+257,Gita Puspitasari,18,7/17/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,4000000,3,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+258,Bintang Pratama,17,12/18/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,4000000,4,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+259,Dian Rahmawati,18,7/23/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,1000000,4,3,Sewa,Semen,Tembok,Tidak Layak
+260,Yosi Hermawan,18,7/16/2009,"Kampung Baros, Sukabumi, Jawa Barat",PNS,2000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+261,Andi Putra,16,12/5/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,4000000,6,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+262,Wira Andika,18,8/4/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,2000000,5,1,Sewa,Semen,Kayu,Tidak Layak
+263,Yosi Hermawan,16,2/14/2006,"Kampung Baros, Sukabumi, Jawa Barat",PNS,500000,6,5,Sewa,Keramik,Tembok,Tidak Layak
+264,Vina Ayu,16,5/19/2007,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,5000000,3,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+265,Zahra Dewi,15,2/7/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+266,Indah Lestari,16,8/21/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,6,4,Sewa,Keramik,Tembok,Tidak Layak
+267,Kiki Permata,16,4/5/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,2000000,3,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+268,Gita Puspitasari,17,9/27/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,3,2,Sewa,Semen,Tembok,Layak
+269,Gita Puspitasari,16,10/28/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,5000000,5,4,Sewa,Semen,Kayu,Tidak Layak
+270,Rani Putri,16,10/9/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,500000,3,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+271,Vina Ayu,17,3/7/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,7,5,Milik Sendiri,Keramik,Kayu,Tidak Layak
+272,Cinta Sari,18,1/22/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,5000000,4,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+273,Nanda Pratama,15,10/20/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,5,3,Sewa,Keramik,Kayu,Tidak Layak
+274,Kiki Permata,17,7/2/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,1000000,6,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+275,Bintang Pratama,17,4/21/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,500000,5,3,Sewa,Keramik,Kayu,Tidak Layak
+276,Vina Ayu,17,4/1/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,4,2,Sewa,Keramik,Kayu,Tidak Layak
+277,Zahra Dewi,15,10/4/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,2000000,3,1,Sewa,Semen,Kayu,Tidak Layak
+278,Haris Setiawan,16,10/13/2007,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Pedagang,500000,4,2,Sewa,Semen,Tembok,Layak
+279,Haris Setiawan,18,3/8/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,5,4,Sewa,Keramik,Kayu,Tidak Layak
+280,Tari Nurul,18,9/22/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,500000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+281,Puti Ayu,18,12/9/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+282,Eka Wulandari,15,10/14/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,1000000,5,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+283,Xenia Arum,18,11/12/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,2000000,7,3,Sewa,Semen,Tembok,Layak
+284,Oki Saputra,17,7/21/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,3000000,3,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+285,Indah Lestari,16,8/18/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,500000,5,1,Sewa,Semen,Tembok,Layak
+286,Oki Saputra,17,4/26/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,2000000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+287,Sari Amelia,15,8/8/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Wiraswasta,4000000,7,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+288,Andi Putra,15,4/18/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,4000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+289,Eka Wulandari,16,4/13/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,5000000,7,6,Sewa,Semen,Tembok,Layak
+290,Andi Putra,16,4/25/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,5000000,7,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+291,Zahra Dewi,15,4/10/2006,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,6,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+292,Bintang Pratama,16,12/3/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,3000000,7,5,Sewa,Semen,Kayu,Tidak Layak
+293,Andi Putra,15,10/18/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,3000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+294,Bintang Pratama,15,9/13/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,1000000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+295,Maya Sari,16,11/26/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,500000,4,2,Sewa,Semen,Tembok,Layak
+296,Januari Prabowo,17,12/19/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,7,6,Milik Sendiri,Keramik,Kayu,Tidak Layak
+297,Umar Fauzi,16,10/10/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+298,Cinta Sari,17,3/26/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,500000,3,2,Sewa,Keramik,Kayu,Tidak Layak
+299,Bintang Pratama,18,1/26/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,2000000,5,2,Sewa,Keramik,Tembok,Tidak Layak
+300,Indah Lestari,18,4/4/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,6,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+301,Zahra Dewi,18,2/4/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,3000000,4,3,Sewa,Keramik,Kayu,Tidak Layak
+302,Kiki Permata,17,4/15/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,1000000,5,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+303,Umar Fauzi,16,7/21/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,3000000,5,1,Sewa,Semen,Tembok,Layak
+304,Bintang Pratama,17,7/28/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,4000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+305,Cinta Sari,18,10/5/2006,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+306,Sari Amelia,17,1/16/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,2000000,4,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+307,Eka Wulandari,17,4/28/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,2000000,7,5,Milik Sendiri,Semen,Tembok,Tidak Layak
+308,Bintang Pratama,17,2/8/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,2,Sewa,Semen,Kayu,Tidak Layak
+309,Gita Puspitasari,16,12/27/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,6,Milik Sendiri,Keramik,Tembok,Tidak Layak
+310,Fikri Ramadhan,16,1/5/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,5000000,4,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+311,Andi Putra,17,12/20/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,500000,5,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+312,Sari Amelia,15,5/5/2006,"Kampung Baros, Sukabumi, Jawa Barat",Pedagang,2000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+313,Oki Saputra,16,11/25/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,500000,4,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+314,Vina Ayu,17,5/10/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,6,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+315,Tari Nurul,15,8/8/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,4,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+316,Vina Ayu,18,8/14/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,5000000,6,5,Milik Sendiri,Keramik,Tembok,Tidak Layak
+317,Zahra Dewi,16,2/1/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,4000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+318,Vina Ayu,17,4/4/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,4,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+319,Puti Ayu,16,1/20/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+320,Nanda Pratama,16,7/10/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Petani,2000000,3,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+321,Haris Setiawan,17,11/24/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,5,4,Milik Sendiri,Keramik,Tembok,Tidak Layak
+322,Tari Nurul,16,11/11/2008,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,500000,5,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+323,Umar Fauzi,18,3/18/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,3,Sewa,Semen,Kayu,Tidak Layak
+324,Gita Puspitasari,17,3/17/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,5000000,6,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+325,Xenia Arum,17,1/16/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,7,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+326,Haris Setiawan,15,9/13/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,500000,5,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+327,Bintang Pratama,18,11/27/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,1000000,7,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+328,Andi Putra,17,11/14/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,1000000,5,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+329,Maya Sari,18,11/11/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,2000000,7,6,Milik Sendiri,Keramik,Kayu,Tidak Layak
+330,Eka Wulandari,17,1/1/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,2000000,5,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+331,Bintang Pratama,17,11/12/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,1000000,5,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+332,Umar Fauzi,16,4/10/2008,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,4,Milik Sendiri,Keramik,Kayu,Tidak Layak
+333,Januari Prabowo,18,8/7/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,500000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+334,Dian Rahmawati,16,8/27/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,7,6,Milik Sendiri,Keramik,Tembok,Tidak Layak
+335,Tari Nurul,16,8/28/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Sewa,Semen,Kayu,Tidak Layak
+336,Puti Ayu,17,1/12/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,6,3,Sewa,Semen,Tembok,Layak
+337,Umar Fauzi,16,1/20/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+338,Xenia Arum,17,2/12/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,2000000,5,4,Sewa,Semen,Tembok,Layak
+339,Zahra Dewi,15,3/4/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,6,5,Sewa,Keramik,Kayu,Tidak Layak
+340,Wira Andika,15,12/21/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,500000,5,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+341,Umar Fauzi,18,5/15/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,1000000,4,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+342,Yosi Hermawan,18,1/14/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,5000000,6,1,Sewa,Semen,Kayu,Tidak Layak
+343,Bintang Pratama,18,2/2/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,1,Sewa,Keramik,Kayu,Tidak Layak
+344,Vina Ayu,15,5/21/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,7,3,Sewa,Semen,Kayu,Tidak Layak
+345,Cinta Sari,17,6/7/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,500000,4,1,Sewa,Semen,Kayu,Tidak Layak
+346,Sari Amelia,16,6/21/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,500000,7,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+347,Indah Lestari,17,1/21/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,5,4,Sewa,Semen,Tembok,Layak
+348,Nanda Pratama,15,11/20/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+349,Oki Saputra,16,9/25/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,4000000,5,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+350,Umar Fauzi,16,7/12/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,500000,6,5,Sewa,Semen,Kayu,Tidak Layak
+351,Rani Putri,17,4/27/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,500000,7,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+352,Dian Rahmawati,18,11/23/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,3,2,Sewa,Semen,Tembok,Layak
+353,Yosi Hermawan,15,1/9/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,1000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+354,Indah Lestari,18,5/5/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,2000000,5,4,Milik Sendiri,Semen,Kayu,Tidak Layak
+355,Fikri Ramadhan,17,12/9/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,5,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+356,Indah Lestari,18,11/3/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,5000000,5,3,Sewa,Keramik,Kayu,Tidak Layak
+357,Nanda Pratama,17,7/1/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,4000000,6,4,Milik Sendiri,Semen,Kayu,Tidak Layak
+358,Cinta Sari,18,9/5/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,500000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+359,Januari Prabowo,17,1/23/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,4000000,7,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+360,Kiki Permata,16,12/1/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,1000000,6,5,Milik Sendiri,Keramik,Tembok,Tidak Layak
+361,Fikri Ramadhan,16,5/9/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,6,5,Milik Sendiri,Semen,Tembok,Tidak Layak
+362,Yosi Hermawan,15,2/28/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,500000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+363,Vina Ayu,17,12/12/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,5000000,7,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+364,Maya Sari,18,8/21/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,2000000,5,1,Sewa,Keramik,Kayu,Tidak Layak
+365,Andi Putra,16,12/8/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,500000,3,2,Sewa,Semen,Tembok,Layak
+366,Eka Wulandari,15,12/2/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,500000,4,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+367,Sari Amelia,15,12/6/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,5000000,3,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+368,Haris Setiawan,15,4/26/2007,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",PNS,2000000,4,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+369,Lia Nabila,15,8/11/2006,"Kampung Baros, Sukabumi, Jawa Barat",Petani,3000000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+370,Bintang Pratama,18,8/27/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,4000000,6,5,Milik Sendiri,Semen,Tembok,Tidak Layak
+371,Kiki Permata,16,11/11/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,4000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+372,Vina Ayu,18,12/20/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,500000,3,1,Sewa,Semen,Kayu,Tidak Layak
+373,Dian Rahmawati,18,6/8/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,4000000,7,2,Sewa,Semen,Kayu,Tidak Layak
+374,Eka Wulandari,15,5/12/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+375,Eka Wulandari,18,10/5/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,3,1,Sewa,Semen,Tembok,Layak
+376,Xenia Arum,16,10/23/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,5000000,6,2,Sewa,Keramik,Tembok,Tidak Layak
+377,Zahra Dewi,16,10/28/2009,"Kampung Baros, Sukabumi, Jawa Barat",Pedagang,5000000,3,1,Sewa,Semen,Kayu,Layak
+378,Vina Ayu,17,10/16/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,1000000,5,4,Milik Sendiri,Keramik,Kayu,Tidak Layak
+379,Sari Amelia,16,4/17/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,1000000,4,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+380,Sari Amelia,17,10/17/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,5000000,5,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+381,Tari Nurul,18,3/5/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,3000000,7,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+382,Oki Saputra,18,7/11/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,1000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+383,Dian Rahmawati,16,11/26/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,3000000,3,1,Sewa,Semen,Tembok,Layak
+384,Indah Lestari,16,4/19/2006,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,3,2,Sewa,Keramik,Tembok,Tidak Layak
+385,Rani Putri,17,4/12/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,3000000,7,6,Sewa,Semen,Kayu,Tidak Layak
+386,Dian Rahmawati,16,6/12/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,7,6,Milik Sendiri,Semen,Kayu,Tidak Layak
+387,Cinta Sari,15,11/2/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Pedagang,5000000,7,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+388,Maya Sari,15,1/21/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,7,6,Sewa,Semen,Tembok,Layak
+389,Januari Prabowo,17,11/13/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,2000000,6,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+390,Zahra Dewi,16,6/7/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+391,Haris Setiawan,16,5/19/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,4000000,4,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+392,Haris Setiawan,16,11/11/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,2000000,5,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+393,Nanda Pratama,18,9/2/2007,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Petani,500000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+394,Oki Saputra,15,11/9/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,500000,7,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+395,Fikri Ramadhan,15,6/7/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,500000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+396,Gita Puspitasari,17,8/23/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,2000000,3,2,Sewa,Semen,Tembok,Layak
+397,Yosi Hermawan,16,1/6/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,3000000,4,1,Sewa,Semen,Tembok,Layak
+398,Bintang Pratama,15,1/18/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,2000000,5,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+399,Tari Nurul,17,10/2/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,500000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+400,Maya Sari,18,10/11/2009,"Kampung Baros, Sukabumi, Jawa Barat",Pedagang,2000000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+401,Indah Lestari,15,8/14/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",PNS,3000000,6,3,Sewa,Semen,Kayu,Tidak Layak
+402,Haris Setiawan,15,6/28/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,4000000,5,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+403,Lia Nabila,18,3/5/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,4,3,Sewa,Keramik,Kayu,Tidak Layak
+404,Andi Putra,18,11/2/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,1000000,4,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+405,Rani Putri,15,3/3/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,5000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+406,Oki Saputra,15,3/4/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,2000000,7,6,Milik Sendiri,Keramik,Kayu,Tidak Layak
+407,Wira Andika,17,7/10/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,1000000,6,5,Milik Sendiri,Keramik,Kayu,Tidak Layak
+408,Bintang Pratama,18,3/7/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,4000000,5,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+409,Nanda Pratama,16,11/15/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,3000000,4,3,Sewa,Keramik,Tembok,Tidak Layak
+410,Eka Wulandari,17,11/19/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,500000,5,4,Sewa,Semen,Kayu,Tidak Layak
+411,Bintang Pratama,15,2/24/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Wiraswasta,500000,7,5,Sewa,Semen,Tembok,Layak
+412,Wira Andika,18,4/20/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Pedagang,4000000,3,2,Sewa,Keramik,Tembok,Tidak Layak
+413,Haris Setiawan,16,1/9/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,5000000,6,5,Milik Sendiri,Keramik,Tembok,Tidak Layak
+414,Andi Putra,15,7/18/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+415,Nanda Pratama,16,9/12/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,4000000,5,1,Sewa,Keramik,Kayu,Tidak Layak
+416,Wira Andika,18,4/3/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,500000,7,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+417,Oki Saputra,17,8/2/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,2000000,4,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+418,Kiki Permata,18,9/3/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,3000000,5,1,Sewa,Keramik,Tembok,Tidak Layak
+419,Eka Wulandari,16,2/22/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,4000000,6,3,Sewa,Semen,Kayu,Tidak Layak
+420,Maya Sari,15,5/20/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,5000000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+421,Lia Nabila,17,9/4/2007,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,500000,3,1,Sewa,Semen,Kayu,Tidak Layak
+422,Zahra Dewi,15,8/24/2007,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,1000000,4,3,Sewa,Semen,Tembok,Layak
+423,Indah Lestari,15,3/25/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,5000000,7,5,Milik Sendiri,Keramik,Kayu,Tidak Layak
+424,Dian Rahmawati,17,4/20/2007,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,4000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+425,Haris Setiawan,16,8/19/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,5,4,Sewa,Keramik,Tembok,Tidak Layak
+426,Haris Setiawan,15,8/26/2008,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,6,1,Sewa,Keramik,Kayu,Tidak Layak
+427,Fikri Ramadhan,17,4/9/2008,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,4000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+428,Lia Nabila,18,10/13/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+429,Nanda Pratama,16,10/7/2006,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,5,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+430,Dian Rahmawati,17,4/12/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,500000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+431,Puti Ayu,15,6/2/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,4000000,6,5,Milik Sendiri,Semen,Kayu,Tidak Layak
+432,Lia Nabila,18,10/1/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,5000000,7,1,Milik Sendiri,Keramik,Kayu,Layak
+433,Haris Setiawan,18,7/18/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Pedagang,1000000,5,4,Milik Sendiri,Keramik,Kayu,Tidak Layak
+434,Gita Puspitasari,15,3/6/2007,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Wiraswasta,2000000,5,1,Sewa,Keramik,Kayu,Tidak Layak
+435,Dian Rahmawati,18,8/8/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+436,Eka Wulandari,15,10/10/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,2000000,6,2,Sewa,Semen,Tembok,Layak
+437,Sari Amelia,18,6/13/2006,"Kampung Baros, Sukabumi, Jawa Barat",PNS,3000000,3,1,Sewa,Semen,Tembok,Layak
+438,Kiki Permata,17,12/23/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,3000000,4,2,Milik Sendiri,Keramik,Tembok,Tidak Layak
+439,Januari Prabowo,18,9/12/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,3,2,Sewa,Semen,Kayu,Tidak Layak
+440,Dian Rahmawati,16,9/1/2008,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,500000,6,5,Sewa,Keramik,Kayu,Tidak Layak
+441,Cinta Sari,16,8/28/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,4,2,Sewa,Semen,Tembok,Layak
+442,Sari Amelia,18,12/3/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,500000,6,1,Sewa,Semen,Kayu,Tidak Layak
+443,Xenia Arum,18,12/8/2006,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,500000,7,4,Sewa,Semen,Tembok,Layak
+444,Zahra Dewi,17,12/8/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,1000000,5,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+445,Haris Setiawan,18,5/24/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,3000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+446,Bintang Pratama,18,5/15/2007,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Wiraswasta,4000000,4,3,Sewa,Semen,Tembok,Layak
+447,Lia Nabila,16,1/16/2007,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,500000,5,1,Sewa,Keramik,Tembok,Tidak Layak
+448,Oki Saputra,17,6/10/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,5,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+449,Puti Ayu,15,8/18/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,2,Sewa,Semen,Kayu,Tidak Layak
+450,Umar Fauzi,17,5/9/2009,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,3,1,Sewa,Keramik,Kayu,Tidak Layak
+451,Rani Putri,18,5/5/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,1000000,7,1,Sewa,Keramik,Tembok,Tidak Layak
+452,Xenia Arum,16,3/15/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,1000000,4,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+453,Puti Ayu,17,11/1/2008,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,4,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+454,Bintang Pratama,15,6/4/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,2000000,4,2,Sewa,Keramik,Kayu,Tidak Layak
+455,Dian Rahmawati,18,3/22/2006,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,4,1,Sewa,Semen,Tembok,Layak
+456,Cinta Sari,18,9/28/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Pedagang,3000000,5,4,Milik Sendiri,Keramik,Kayu,Tidak Layak
+457,Nanda Pratama,18,8/7/2006,"Kampung Baros, Sukabumi, Jawa Barat",PNS,500000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+458,Andi Putra,18,3/24/2006,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,5000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+459,Indah Lestari,15,3/24/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,7,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+460,Bintang Pratama,15,1/4/2006,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Petani,2000000,7,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+461,Yosi Hermawan,16,9/8/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Petani,4000000,7,5,Milik Sendiri,Semen,Kayu,Tidak Layak
+462,Eka Wulandari,16,1/12/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",PNS,3000000,6,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+463,Zahra Dewi,15,4/3/2006,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",PNS,2000000,6,4,Milik Sendiri,Keramik,Tembok,Tidak Layak
+464,Haris Setiawan,16,2/26/2007,"Kampung Baros, Sukabumi, Jawa Barat",Petani,500000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+465,Xenia Arum,18,1/12/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",Petani,3000000,3,1,Sewa,Keramik,Tembok,Tidak Layak
+466,Umar Fauzi,16,3/19/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,7,2,Sewa,Keramik,Kayu,Tidak Layak
+467,Haris Setiawan,17,6/26/2006,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,2000000,3,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+468,Rani Putri,16,9/6/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,4000000,4,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+469,Nanda Pratama,18,10/20/2009,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,5,2,Milik Sendiri,Semen,Tembok,Tidak Layak
+470,Umar Fauzi,18,4/22/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Pedagang,5000000,7,5,Sewa,Semen,Kayu,Tidak Layak
+471,Yosi Hermawan,15,11/25/2009,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",PNS,5000000,3,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+472,Puti Ayu,15,11/25/2009,"Kampung Baros, Sukabumi, Jawa Barat",Petani,2000000,4,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+473,Haris Setiawan,15,11/21/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,3,1,Sewa,Semen,Tembok,Layak
+474,Gita Puspitasari,18,2/22/2007,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Wiraswasta,1000000,4,2,Sewa,Semen,Kayu,Tidak Layak
+475,Tari Nurul,17,3/8/2008,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,5000000,3,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+476,Gita Puspitasari,16,6/16/2008,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Pedagang,500000,4,1,Milik Sendiri,Semen,Kayu,Tidak Layak
+477,Maya Sari,18,8/23/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",Pedagang,4000000,4,1,Sewa,Keramik,Tembok,Tidak Layak
+478,Kiki Permata,15,12/16/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,6,5,Milik Sendiri,Keramik,Tembok,Tidak Layak
+479,Kiki Permata,17,12/26/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,1000000,4,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+480,Yosi Hermawan,18,5/13/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",Petani,500000,4,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+481,Maya Sari,16,1/13/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,1000000,7,5,Milik Sendiri,Semen,Tembok,Tidak Layak
+482,Eka Wulandari,15,9/6/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,500000,5,4,Sewa,Keramik,Tembok,Tidak Layak
+483,Kiki Permata,16,1/2/2009,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",PNS,4000000,5,2,Sewa,Semen,Tembok,Layak
+484,Xenia Arum,17,11/6/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",PNS,5000000,6,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+485,Yosi Hermawan,18,1/27/2009,"Kampung Cisaat, Sukabumi, Jawa Barat",Wiraswasta,4000000,5,1,Sewa,Keramik,Kayu,Tidak Layak
+486,Oki Saputra,18,1/12/2008,"Perumahan Pesona Sukabumi, Sukabumi, Jawa Barat",PNS,500000,6,2,Milik Sendiri,Semen,Kayu,Tidak Layak
+487,Puti Ayu,18,2/25/2007,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,3000000,5,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+488,Sari Amelia,17,7/2/2009,"Kampung Lembursitu, Sukabumi, Jawa Barat",PNS,5000000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+489,Januari Prabowo,17,12/12/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,3,Sewa,Semen,Tembok,Layak
+490,Haris Setiawan,16,3/16/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,6,4,Milik Sendiri,Semen,Tembok,Tidak Layak
+491,Sari Amelia,15,7/1/2006,"Kampung Cikundul, Kec. Lembursitu, Sukabumi, Jawa Barat",PNS,500000,7,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+492,Gita Puspitasari,16,7/17/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,5,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+493,Puti Ayu,17,6/18/2008,"Kampung Baros, Sukabumi, Jawa Barat",PNS,3000000,6,3,Sewa,Keramik,Tembok,Tidak Layak
+494,Umar Fauzi,18,11/6/2007,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",PNS,4000000,7,5,Sewa,Semen,Tembok,Layak
+495,Januari Prabowo,15,4/1/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Petani,5000000,4,1,Milik Sendiri,Semen,Tembok,Tidak Layak
+496,Andi Putra,15,9/7/2009,"Perumahan Pesona Cibolang, Cibadak, Sukabumi, Jawa Barat",Wiraswasta,500000,6,3,Milik Sendiri,Keramik,Tembok,Tidak Layak
+497,Oki Saputra,16,2/28/2006,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,4000000,4,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+498,Puti Ayu,15,5/6/2007,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,6,3,Milik Sendiri,Semen,Kayu,Tidak Layak
+499,Eka Wulandari,16,9/12/2007,"Perumahan Pesona Asri, Kec. Cibadak, Sukabumi, Jawa Barat",Wiraswasta,500000,3,1,Milik Sendiri,Keramik,Kayu,Tidak Layak
+500,Wira Andika,18,4/18/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Pedagang,4000000,4,3,Sewa,Keramik,Kayu,Tidak Layak
+501,Oki Saputra,15,4/18/2007,"Kampung Baros, Sukabumi, Jawa Barat",Karyawan Swasta,2000000,7,3,Milik Sendiri,Semen,Tembok,Tidak Layak
+502,Umar Fauzi,15,9/18/2009,"Perumahan Griya Asri, Kec. Baros, Sukabumi, Jawa Barat",Wiraswasta,3000000,3,1,Sewa,Semen,Tembok,Layak
+503,Xenia Arum,17,12/24/2006,"Kampung Lembursitu, Sukabumi, Jawa Barat",Pedagang,1000000,7,1,Milik Sendiri,Keramik,Tembok,Tidak Layak
+504,Sari Amelia,17,8/8/2008,"Kampung Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,3000000,4,1,Sewa,Keramik,Kayu,Tidak Layak
+505,Zahra Dewi,18,4/9/2007,"Kampung Baros, Sukabumi, Jawa Barat",Wiraswasta,1000000,5,4,Milik Sendiri,Semen,Kayu,Tidak Layak
+506,Wira Andika,18,4/9/2009,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,1000000,4,3,Milik Sendiri,Keramik,Kayu,Tidak Layak
+507,Eka Wulandari,16,12/28/2008,"Kampung Lembursitu, Sukabumi, Jawa Barat",Wiraswasta,1000000,4,3,Sewa,Keramik,Tembok,Tidak Layak
+508,Sari Amelia,16,8/22/2009,"Kampung Selajambe, Kec. Cisaat, Sukabumi, Jawa Barat",Karyawan Swasta,5000000,6,5,Sewa,Keramik,Tembok,Tidak Layak
+509,Haris Setiawan,17,5/5/2009,"Kampung Baros, Sukabumi, Jawa Barat",PNS,5000000,3,2,Milik Sendiri,Keramik,Kayu,Tidak Layak
+510,Januari Prabowo,15,11/9/2007,"Kampung Cibeureum, Kec. Cisaat, Sukabumi, Jawa Barat",Petani,3000000,6,2,Milik Sendiri,Semen,Tembok,Tidak Layak
